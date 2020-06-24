@@ -1,4 +1,4 @@
-# Gostack-reactjs
+# Gostack-ReactJS
 
 <h4>This application runs with the Node.js backend.</h4>
 
